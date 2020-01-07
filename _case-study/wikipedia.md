@@ -16,7 +16,7 @@ gallery:
     caption: "Η εύκολη και καθολική συμμετοχή των χρηστών στη δημιουργία και ενημέρωση του περιεχομένου γίνεται με τη βοήθεια λογισμικού τύπου wiki, το οποίο επιτρέπει την επιτόπου επεξεργασία ενός άρθρου μέσα στο λογισμικό περιηγητή του χρήστη."
 ---
 [Ανάρτηση στο facebook](https://www.facebook.com/andreas.kagkelaris/videos/10156381718967414)
-![Screenshot](https://video.xx.fbcdn.net/v/t42.9040-2/77652448_895101634219052_3582238827806195712_n.mp4?_nc_cat=110&efg=eyJybHIiOjMwMCwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIn0%3D&_nc_ohc=yusRkEePtsoAQnV9OpPU5yH4RXjHtibNSSbVsTynQN-knlelEs9UcK2rQ&rl=300&vabr=72&_nc_ht=video.fskg1-1.fna&oh=b54fdbb8bc0c9fa1fc741ce1f148cc72&oe=5E14A587)
+![Screenshot](https://media.giphy.com/media/GcDwQGCKWsays/giphy.gif)
 
 {% include cs-wikipedia.md %}
 
