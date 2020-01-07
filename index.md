@@ -5,6 +5,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: ![Screenshot](https://media.giphy.com/media/Ak3wFZTdORHdm/giphy.gif)
   cta_label: "Download"
+  cta_label: "Download"
   cta_label: "Διαβάστε ένα δωρεάν δείγμα"
   cta_url: "https://leanpub.com/pibook"
   caption: "Δικαιώματα εικόνας: [**SRI International**](https://www.sri.com)"
