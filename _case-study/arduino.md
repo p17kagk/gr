@@ -19,6 +19,7 @@ gallery:
   - image_url: /images/makey_makey_front.png
     caption: "Το Makey Makey είναι ένα Arduino που έχει οργανωθεί και προγραμματιστεί έτσι ώστε να διευκολύνει τον πειραματισμό με νέες συσκευές εισόδου."
 ---
+[Ανάρτηση στο facebook](https://www.facebook.com/andreas.kagkelaris/posts/10156381743652414)
 ![Screenshot](https://media.giphy.com/media/DVlAjHdX54A7K/giphy.gif)
 
 {% include cs-arduino.md %}
