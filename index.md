@@ -3,9 +3,9 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /images/header/header.jpg  cta_label: "Download"
+  overlay_image: /images/header/header.jpg
   cta_label: "Download"
-  cta_label: "Διαβάστε ένα δωρεάν δείγμα"
+  cta_label: "Διαβάστε ένα δωρεάν απόσπασμα"
   cta_url: "https://leanpub.com/pibook"
   caption: "Δικαιώματα εικόνας: [**SRI International**](https://www.sri.com)"
 excerpt: 'Σχεδιασμός και κατασκευή συνεργατικών συστήματων για ένα οικοσύστημα χρηστών, συσκευών, και υπηρεσιών.'
