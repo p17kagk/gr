@@ -16,6 +16,8 @@ gallery:
   - image_url: /images/xanadu.jpg
     caption: "Το σύστημα xanadu του Ted Nelson σχεδιάστηκε το 1965 για να προσφέρει πολλές λειτουργίες που, ενώ πλέον θεωρούνται δεδομένες για τα αντίστοιχα σύγχρονα συστήματα, τότε δεν ήταν συμβατές στην πράξη με τις τρέχουσες ανάγκες των χρηστών, ούτε με το τεχνολογικό πλαίσιο της εποχής."
 ---
+[Ανάρτηση στο facebook](https://www.facebook.com/andreas.kagkelaris/videos/10156381702157414/)
+![Screenshot](https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif)
 
 {% include cs-www.md %}
 
