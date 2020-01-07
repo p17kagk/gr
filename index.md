@@ -10,6 +10,8 @@ header:
   caption: "Δικαιώματα εικόνας: [**SRI International**](https://www.sri.com)"
 excerpt: 'Σχεδιασμός και κατασκευή συνεργατικών συστήματων για ένα οικοσύστημα χρηστών, συσκευών, και υπηρεσιών.'
 ---
+[Ανάρτηση στο facebook](https://www.facebook.com/andreas.kagkelaris/videos/10156381756957414/)
+![Screenshot](https://media.giphy.com/media/DVlAjHdX54A7K/giphy.gif)
 
 <div class="feature__wrapper">
 
