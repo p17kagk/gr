@@ -15,6 +15,8 @@ gallery:
   - image_url: /images/wikipedia-edit.png
     caption: "Η εύκολη και καθολική συμμετοχή των χρηστών στη δημιουργία και ενημέρωση του περιεχομένου γίνεται με τη βοήθεια λογισμικού τύπου wiki, το οποίο επιτρέπει την επιτόπου επεξεργασία ενός άρθρου μέσα στο λογισμικό περιηγητή του χρήστη."
 ---
+[Ανάρτηση στο facebook](https://www.facebook.com/andreas.kagkelaris/videos/10156381702157414)
+![Screenshot](https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif)
 
 {% include cs-wikipedia.md %}
 
