@@ -11,7 +11,7 @@ header:
 excerpt: 'Σχεδιασμός και κατασκευή συνεργατικών συστήματων για ένα οικοσύστημα χρηστών, συσκευών, και υπηρεσιών.'
 ---
 [Ανάρτηση στο facebook](https://www.facebook.com/andreas.kagkelaris/videos/10156381756957414/)
-![Screenshot](https://media.giphy.com/media/DVlAjHdX54A7K/giphy.gif)
+![Screenshot](https://media.giphy.com/media/Ak3wFZTdORHdm/giphy.gif)
 
 <div class="feature__wrapper">
 
