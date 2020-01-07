@@ -7,7 +7,7 @@ header:
   cta_label: "Download"
   cta_label: "Διαβάστε ένα δωρεάν απόσπασμα"
   cta_url: "https://leanpub.com/pibook"
-  caption: "Δικαιώματα εικόνας: [**SRI International**](https://www.sri.com)"
+  
 excerpt: 'Σχεδιασμός και κατασκευή συνεργατικών συστήματων για ένα οικοσύστημα χρηστών, συσκευών, και υπηρεσιών.'
 ---
 
