@@ -3,7 +3,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /images/header/header.jpg
+  overlay_image: /images/header/header_p17kagk.jpg
   cta_label: "Download"
   cta_label: "Διαβάστε ένα δωρεάν απόσπασμα"
   cta_url: "https://leanpub.com/pibook"
