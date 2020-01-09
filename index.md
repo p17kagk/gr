@@ -23,6 +23,6 @@ excerpt: 'Σχεδιασμός και κατασκευή συνεργατικώ�
 
   {% assign random = site.time | date: "%s%N" | modulo: site.case-study.size %}
 
-  {% include feature_col.html id="case-study" type="right" index=random %}
+  {% include feature_col.html id="case-study" type="right" index=arduino.md %}
 
 <div>
