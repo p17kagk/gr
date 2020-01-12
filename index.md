@@ -21,6 +21,5 @@ excerpt: 'Σχεδιασμός και κατασκευή συνεργατικώ�
 
   {% include feature_col.html id="gallery" type="center" index=random %}
 
-
-
+<a class="twitter-timeline" href="https://twitter.com/kagelaris3?ref_src=twsrc%5Etfw">Tweets by kagelaris3</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 <div>
