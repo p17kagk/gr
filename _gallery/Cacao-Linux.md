@@ -2,7 +2,7 @@
 author: p17kagk 
 title: Cacao-Linux
 image_url: /images/Cacao-Linux.jpg
-caption: 'Το XXXXXXX είναι ένα ανοικτού κώδικα, ελεύθερο και δωρεάν λειτουργικό σύστημα βασισμένο στον πυρήνα Linux. Το όνομά του προέρχεται από την έννοια ubuntu των Ζουλού και Κόσα (Xhosa), που ερμηνεύεται ως «ανθρωπιά προς τον άλλον», καθώς και «Είμαι αυτό που είμαι λόγω αυτού που όλοι είμαστε». Το Ubuntu ξεκίνησε το 2004, βασισμένο στη διανομή Debian . Ο στόχος του Ubuntu είναι η παροχή ενός διαρκώς ενημερωμένου, σταθερού λειτουργικού συστήματος για τον μέσο χρήστη, με ενισχυμένη έμφαση στην ευκολία χρήσης και εγκατάστασης. Το Ubuntu έχει χαρακτηριστεί ως η πιο δημοφιλής διανομή Linux για επιτραπέζιους υπολογιστές, διεκδικώντας, σύμφωνα με την Valve, περίπου το 45% (21 Μαρ. 2015) επί του συνόλου των υπολογιστών με διανομές βασισμένες στον πυρήνα Linux. '
+caption: 'The goal of this Kickstarter project is to make GNUstep work seamlessly with all of the platforms it currently runs on and to complete the necessary work to make it fully compatible with, at least, the version of the Cocoa APIs available on 10.12 and to make a reference Linux distribution for GNUstep '
 license_url: 'https://github.com/PureSwift/Cacao'
 license_text: 
 categories:
@@ -12,6 +12,6 @@ categories:
 tags:
   - OpenSource
   - Software
-  - Debian
+  - GNU
   - Linux
 ---
