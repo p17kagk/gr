@@ -6,15 +6,15 @@ caption: "O Ken Thompson δημιούργησε και παρουσίασε πρ
 categories:
   - biography
   - definition
-tags:
-  - Alan Kay
-  - Ivan Sutherland
-  - Bret Victor
-  - Dynabook
-  - Smalltalk
-  - Xerox Alto
+  - computer
+  - science
+  tags:
+  - Ken Thomson
+  - UNIX Shell
+  - command interpreter
+  - computer science
 gallery:
-  - image_url: /images/dynabook.png
+  - image_url: /images/B-Programming-language.jpg
     caption: "Το Dynabook είναι ένα σχεδιαστικό όραμα του 1968 για ένα φορητό υπολογιστή τύπου τάμπλετ από τον Alan Kay που απευθύνεται σε παιδιά και μπορεί να προγραμματιστεί με στόχο την προσωπική έκφραση και την επεξεργασία της πληροφορίας"
   - image_url: /images/alan-kay.jpg
     caption: "Ο Αλαν Κεη συνδύασε γνώσεις και δεξιότητες από διαφορετικές περιοχές όπως οι υπολογιστές και τα μουσικά όργανα και έτσι μπόρεσε να φανταστεί τον υπολογιστή περισσότερο ως ένα μέσο επικοινωνίας και έκφρασης παρά ως ένα απλό εργαλείο."
