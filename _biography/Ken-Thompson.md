@@ -1,18 +1,18 @@
 ---
-author: p17kagk
-title: "Ken Thompson"
-image_url: /images/Ken-Thompson.jpg
-caption: "O Ken Thompson δημιούργησε και παρουσίασε πρώτη φορά το 1971 το πρώτο UNIX Shell γνωστό ως 'Τhomspon shell'. "
+author: epidrome
+title: "Alan Kay"
+image_url: /images/alan-kay.jpg
+caption: "O Alan Kay οραματίστηκε το Dynabook και δημιούργησε λογισμικό που διευκολύνει τα παιδιά να μάθουν να σκέφτονται μαζί με τους υπολογιστές"
 categories:
   - biography
   - definition
-  - computer
-  - science
-  tags:
-  - Ken Thomson
-  - UNIX Shell
-  - command interpreter
-  - computer science
+tags:
+  - Alan Kay
+  - Ivan Sutherland
+  - Bret Victor
+  - Dynabook
+  - Smalltalk
+  - Xerox Alto
 gallery:
   - image_url: /images/dynabook.png
     caption: "Το Dynabook είναι ένα σχεδιαστικό όραμα του 1968 για ένα φορητό υπολογιστή τύπου τάμπλετ από τον Alan Kay που απευθύνεται σε παιδιά και μπορεί να προγραμματιστεί με στόχο την προσωπική έκφραση και την επεξεργασία της πληροφορίας"
