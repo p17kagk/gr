@@ -21,7 +21,7 @@ gallery:
   - image_url: /images/Plan-9.jpg
     caption: "To Plan 9 είναι απο τα πρώτα κατενεμημένα λειτουργικά συστήματα, και ιδρύθηκε στα μέσα της δεκαετίας του '80 στα εργαστήρια της 'Bell Labs' απο τον Ken Thompson και άλλα μέλη της εταιρίας. "
   - image_url: /images/UTF-8.png
-    caption: "lll"
+    caption: "Η UTF-8 είναι μια κωδικοποίηση χαρακτήρων μεταβλητού μήκους με δυνατότητα κωδικοποίησης 1,112,064 χαρακτήρες. Σχεδιάστηκε απο τους Ken Thompson και Rob Pike. "
 ---
 
 {% include bio-kay.md %}
