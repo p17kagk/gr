@@ -2,7 +2,7 @@
 author: p17kagk
 title: "Ken Thompson"
 image_url: /images/Ken-Thompson.jpg
-caption: "O Ken Thompson δημιούργησε και παρουσίασε πρώτη φορά το 1971 το πρώτο UNIX Shell γνωστό ως "Thomspon shell". "
+caption: "O Ken Thompson δημιούργησε και παρουσίασε πρώτη φορά το 1971 το πρώτο UNIX Shell γνωστό ως 'Τhomspon shell'. "
 categories:
   - biography
   - definition
