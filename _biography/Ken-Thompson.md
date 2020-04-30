@@ -23,6 +23,6 @@ gallery:
   - image_url: /images/UTF-8.png
     caption: "Η UTF-8 είναι μια κωδικοποίηση χαρακτήρων μεταβλητού μήκους με δυνατότητα κωδικοποίησης 1,112,064 χαρακτήρες. Σχεδιάστηκε απο τους Ken Thompson και Rob Pike. "
 ---
-{% include bio-kay.md %}
+{% bio-Thompson.md %}
 
 {% include slides.html caption="Εικόνες για την βιογραφία του Αλαν Κεη" %}
