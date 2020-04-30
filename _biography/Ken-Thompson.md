@@ -1,5 +1,5 @@
 ---
-author: epidrome
+author: p17kagk
 title: "Alan Kay"
 image_url: /images/alan-kay.jpg
 caption: "O Alan Kay οραματίστηκε το Dynabook και δημιούργησε λογισμικό που διευκολύνει τα παιδιά να μάθουν να σκέφτονται μαζί με τους υπολογιστές"
