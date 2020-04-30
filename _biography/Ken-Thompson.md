@@ -2,7 +2,7 @@
 author: p17kagk
 title: "Ken Thompson"
 image_url: /images/Ken-Thompson.jpg
-caption: "O Aaaalan Kay οραματίστηκε το Dynabook και δημιούργησε λογισμικό που διευκολύνει τα παιδιά να μάθουν να σκέφτονται μαζί με τους υπολογιστές"
+caption: "O Ken Thompson δημιούργησε και παρουσίασε πρώτη φορά το 1971 το πρώτο UNIX Shell γνωστό ως "Thomspon shell". "
 categories:
   - biography
   - definition
