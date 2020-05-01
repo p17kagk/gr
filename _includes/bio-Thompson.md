@@ -13,11 +13,17 @@ O Ken Thompson (Kenneth Lane Thompson) είναι γεννημένος στις 
 Κατά την διάρκεια της σταδιοδρομίας του, έλαβε μερικά πολύ σημαντικά βραβεία και διακρίσεις:
 
 Το 1980 ανακυρήχθηκε μέλος στην 'Διεθνή Ακαδημία Μηχανικών' (National Academy of Engineering).
+
 Το 1983 έλαβε το βραβείο 'Turing'.
+
 To 1985 ανακυρήχθηκε μέλος στην 'Διεθνή Ακαδημία Επιστημόνων' (National Academy of Sciences).
+
 Το 1990 έλαβε το βραβείο 'IEEE Richard W. Hamming'.
+
 Το 1997 έλαβε το Διεθνές Βραβείο Τεχνολογίας (National Medal of Technology).
-Το 1999 έλαβε το 'Tsutomu Kanai Award'
+
+Το 1999 έλαβε το 'Tsutomu Kanai Award'.
+
 Το 2011 έλαβε το 'Japan Prize for Information and Communications'.
 
 
