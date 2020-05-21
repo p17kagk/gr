@@ -1,4 +1,4 @@
-
+---
 author: p17kagk
 title: "Ken Thompson"
 image_url: /images/Ken-Thompson.jpg
