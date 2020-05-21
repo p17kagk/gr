@@ -1,4 +1,3 @@
----
 author: p17kagk
 title: "Edsger Dijkstra"
 image_url: /images/Edsger-Dijkstra.jpg
