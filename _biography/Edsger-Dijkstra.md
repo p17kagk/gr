@@ -22,4 +22,4 @@ gallery:
 
 {% include bio-Dijkstra.md %}
 
-{% include slides.html caption="Εικόνες για την βιογραφία του " %}
+{% include slides.html caption="Εικόνες για την βιογραφία του " %} 
