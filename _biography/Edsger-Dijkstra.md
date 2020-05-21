@@ -2,24 +2,27 @@
 author: p17kagk
 title: "Edsger Dijkstran"
 image_url: /images/Edsger-Dijkstra.jpg
-caption: "O Edsger Dijkstran. "
+caption: "O Edsger Dijkstran εισήγαγε την έννοια του δομημένου προγραμματισμού. "
 categories:
-  - biography
-  - definition
-  - computer
-  - science
-  
+  - βιογραφία
+  - επιστήμη υπολογιστών 
+  - δομημένος προγραμματισμός
+  - μηχανικός λογισμικού
+    
 tags:
-  - Ken Thomson
-  - UNIX Shell
-  - command interpreter
-  - computer science
+  - Edsger Dijkstran
+  - επιστήμη
+  - υπολογιστών
+  - δομημένος
+  - προγραμματισμός
+  - μηχανικός
+  - λογισμικού
   
 gallery:
   - image_url: /images/Structured-programming.png
-    caption: "strucyre caption"  
+    caption: "O Edsger Dijkstran εισήγαγε την έννοια του δομημένου προγραμματισμού. "  
 ---
 
 {% include bio-Dijkstra.md %}
 
-{% include slides.html caption="Εικόνες για την βιογραφία του " %} 
+{% include slides.html caption="Εικόνες για την βιογραφία του Edsger Dijkstran" %} 
