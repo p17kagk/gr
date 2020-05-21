@@ -1,4 +1,4 @@
-## Βιογραφικά στοιχεία του Edsger W. Dijkstra
+## Βιογραφικά στοιχεία του Edsger W. Dijkstra 
 
 Ο Edsger W. Dijkstra (11 May 1930 – 6 August 2002) ήταν Ολλανδός Μηχανικός Λογισμικού, Προγραμματιστής και Επιστήμονας Συστημάτων (systems scientist), και θεωρείται πρωτοπόρος επιστήμονας στον κλάδο της επιστήμης των υπολογιστών. 
 
@@ -18,6 +18,7 @@
 - Το 1975 ανακυρήχθηκε επίτημο μέλος [Αμερικάνικης Ακαδημίας Τεχνών και Επιστημών](https://en.wikipedia.org/wiki/American_Academy_of_Arts_and_Sciences).
 - Το 1989 έλαβε το βραβείο [ACM/SIGCSE](https://en.wikipedia.org/wiki/SIGCSE) για "την εκπληκτική του συνεισφορά στην εκπαίδευση της επιστήμης των υπολογιστών.
 - Το 2001 έλαβε τιμητικό τίτλο "Διδάκτωρα" απο το [Οικονομικό Πανεπιστήμιο Αθηνών](https://en.wikipedia.org/wiki/Athens_University_of_Economics_and_Business).
+
 
 
 
