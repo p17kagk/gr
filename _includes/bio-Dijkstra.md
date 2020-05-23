@@ -15,7 +15,7 @@
 ##### Το 1971 ανακυρήχθηκε μέλος της [Βασιλικής Ακαδημίας Τεχνών και Επιστημών της Ολλανδίας](https://en.wikipedia.org/wiki/Royal_Netherlands_Academy_of_Arts_and_Sciences).
 ##### Το 1972 έλαβε το βραβείο [A.M. Turing Award](https://en.wikipedia.org/wiki/Turing_Award).
 ##### Το 1974 έλαβε το [Harry H. Goode Memorial Award](https://en.wikipedia.org/wiki/Harry_H._Goode_Memorial_Award) απο την [IEEE Computer Society](https://en.wikipedia.org/wiki/IEEE_Computer_Society).
-###### Το 1975 ανακυρήχθηκε επίτημο μέλος [Αμερικάνικης Ακαδημίας Τεχνών και Επιστημών](https://en.wikipedia.org/wiki/American_Academy_of_Arts_and_Sciences).
+##### Το 1975 ανακυρήχθηκε επίτημο μέλος [Αμερικάνικης Ακαδημίας Τεχνών και Επιστημών](https://en.wikipedia.org/wiki/American_Academy_of_Arts_and_Sciences).
 ##### Το 1989 έλαβε το βραβείο [ACM/SIGCSE](https://en.wikipedia.org/wiki/SIGCSE) για "την εκπληκτική του συνεισφορά στην εκπαίδευση της επιστήμης των υπολογιστών.
 ##### Το 2001 έλαβε τιμητικό τίτλο "Διδάκτωρα" απο το [Οικονομικό Πανεπιστήμιο Αθηνών](https://en.wikipedia.org/wiki/Athens_University_of_Economics_and_Business).
 
